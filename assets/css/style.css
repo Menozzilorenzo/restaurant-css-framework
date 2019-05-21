@@ -1,0 +1,182 @@
+/* page accueil */
+#home {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#home .row {
+  margin-top: 5%;
+}
+
+#home nav {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#home nav a,
+#home nav div {
+  color: white;
+}
+
+#home .info {
+  margin-left: 20%;
+}
+
+#home footer {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+  color: white;
+}
+
+/* page carte */
+#carte {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#carte nav {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#carte nav a,
+#carte nav div {
+  color: white;
+}
+
+#carte footer {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+  color: white;
+}
+
+/* pages photos */
+#photo {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#photo #carouselExampleIndicators {
+  width: 100%;
+}
+
+#photo #carouselExampleIndicators .carousel-inner {
+  width: 33%;
+}
+
+#photo .img {
+  list-style: none;
+}
+
+#photo .menu {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#photo .menu a,
+#photo .menu div {
+  color: white;
+}
+
+#photo footer {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+  color: white;
+}
+
+/* page restaurants */
+#restaurants {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#restaurants .map {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+}
+
+#restaurants .map iframe,
+#restaurants .map object,
+#restaurants .map embed {
+  position: absolute;
+  top: 1;
+  left: 0;
+  width: 100%;
+  height: 80%;
+}
+
+#restaurants nav {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#restaurants nav a,
+#restaurants nav div {
+  color: white;
+}
+
+#restaurants footer {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+  color: white;
+}
+
+/* page contact */
+#contact {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#contact .name {
+  margin-bottom: 1%;
+}
+
+#contact nav {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+}
+
+#contact nav a,
+#contact nav div {
+  color: white;
+}
+
+#contact footer {
+  background: -webkit-gradient(linear, left top, right top, color-stop(50%, darkred), to(#ce2b37));
+  background: -webkit-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: -o-linear-gradient(left, darkred 50%, #ce2b37 100%);
+  background: linear-gradient(90deg, darkred 50%, #ce2b37 100%);
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
